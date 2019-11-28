@@ -16,39 +16,39 @@ A continuacion deberemos darle a editar y a continuacion añadiremos los servici
 
 ## Instalar mySQL
 primero pondremos este comando para que instalemos el mysql server con este comando
-![primer paso mysql](capturas/tarea-1/captura7.PNG)
+![primer paso mysql](capturas/tarea-1/Captura7.PNG)
 
 y a continuacion pondremos el comando para configurar el servicio 
-![configuracion de mysql](capturas/tarea-1/captura6.PNG)
+![configuracion de mysql](capturas/tarea-1/Captura6.PNG)
 
 ## Instalar phpmyadmin
 Pondremos el siguiente comando para instalar
 
-![instalacion phpmyadmin](capturas/tarea-1/captura8.PNG)
+![instalacion phpmyadmin](capturas/tarea-1/Captura8.PNG)
 
 ahora comenzaremos con los pasos de la instalacion
 
 * primero aquí elegiremos apache **pulsando espacio** y cuando lo hayamos hecho le daremos a enter
-![instalacion phpmyadmin 2](capturas/tarea-1/captura9.PNG)
+![instalacion phpmyadmin 2](capturas/tarea-1/Captura9.PNG)
 
 * seleccionaremos la opcion de configurar la base de datos
-![instalacion phpmyadmin 3](capturas/tarea-1/captura10.PNG)
+![instalacion phpmyadmin 3](capturas/tarea-1/Captura10.PNG)
 
 * ahora nos toca elegir la contraseña, aquí se aplican las reglas de cuando has configurado el mysql
-![instalacion phpmyadmin 4](capturas/tarea-1/captura11.PNG)
+![instalacion phpmyadmin 4](capturas/tarea-1/Captura11.PNG)
 * a continuacion elegiremos el metodo de conexion a la base de datos, en mi caso he elegido TCP/IP que es el mas usado
-![instalacion phpmyadmin 5](capturas/tarea-1/captura12.PNG)
+![instalacion phpmyadmin 5](capturas/tarea-1/Captura12.PNG)
 * en el siguiente paso elegiremos el host, en mi caso he elegido localhost
-![instalacion phpmyadmin 6](capturas/tarea-1/captura13.PNG)
+![instalacion phpmyadmin 6](capturas/tarea-1/Captura13.PNG)
 * para este paso en un principio no deberemos cambiar el puerto
-![instalacion phpmyadmin 7](capturas/tarea-1/captura14.PNG)
+![instalacion phpmyadmin 7](capturas/tarea-1/Captura14.PNG)
 * ahora elegiremos el nombre de la base de datos
-![instalacion phpmyadmin 8](capturas/tarea-1/captura15.PNG)
+![instalacion phpmyadmin 8](capturas/tarea-1/Captura15.PNG)
 * Y por último el usuario del phpmyadmin
-![instalacion phpmyadmin 9](capturas/tarea-1/captura16.PNG)
+![instalacion phpmyadmin 9](capturas/tarea-1/Captura16.PNG)
 
 al terminar todo esto podemos hacer una comprobacion de si hemos conseguido instalar con exito
-![instalacion phpmyadmin 10](capturas/tarea-1/captura17.PNG)
+![instalacion phpmyadmin 10](capturas/tarea-1/Captura17.PNG)
 
 ## Conexion SQL php
 
