@@ -1,7 +1,7 @@
 # Instalacion de servicios basicos de ubuntu server
 ## Instalacion de apache2
 Primero antes que nada es siempre recomendable hacer un update de los repositorio
-![imagen update](capturas/Captura3.png)
+![imagen update](capturas/tarea-1/Captura3.png)
 
 A continuacion despues de actualizar los repositorios vamos a instalar el apache2
 ![imagen apache2](capturas/tarea-1/Captura4.png)
