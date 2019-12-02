@@ -36,7 +36,7 @@ ahora comenzaremos con los pasos de la instalacion
 
 * ahora nos toca elegir la contraseña, aquí se aplican las reglas de cuando has configurado el mysql
 ![instalacion phpmyadmin 4](capturas/tarea-1/Captura11.PNG)
-* a continuacion elegiremos el metodo de conexion a la base de datos, en mi caso he elegido TCP/IP que es el mas usado
+* a continuacion elegiremos el metodo de conexion a la base de datos, en mi caso he elegido TCP/IP
 ![instalacion phpmyadmin 5](capturas/tarea-1/Captura12.PNG)
 * en el siguiente paso elegiremos el host, en mi caso he elegido localhost
 ![instalacion phpmyadmin 6](capturas/tarea-1/Captura13.PNG)
