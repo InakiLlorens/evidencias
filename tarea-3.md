@@ -2,11 +2,11 @@
 
 primero en el panel de control de nuestro servidor tendremos que meternos en registro DNS
 
-![panel](capturas/tarea-3/captura1.PNG)
+![panel](capturas/tarea-3/Captura1.PNG)
 
 
 y a continuacion crearemos un registro DNS de tipo A y pondremos la ip a la que la queremos asociar
-![panel](capturas/tarea-3/captura2.PNG)
+![panel](capturas/tarea-3/Captura2.PNG)
 
 #### NOTA: TIPOS DE REGISTROS
 - tipo A: El tipo A sirve para asociar ese nombre a una **IP**
