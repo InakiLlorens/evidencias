@@ -13,4 +13,4 @@ y a continuacion crearemos un registro DNS de tipo A y pondremos la ip a la que 
 - tipo CNAME: Sirve para asociar ese nombre a un **URL**
 - Tipo AAAA: Es como el tipo A solo que ahora lo asocia a las ips de protocolo **IPV4**
 - tipo text: Se usa para asociar el nombre a **texto normal y corriente**
-tipo SRV: Sirve para asociar ese nombre con otro **servicio**
+- tipo SRV: Sirve para asociar ese nombre con otro **servicio**
