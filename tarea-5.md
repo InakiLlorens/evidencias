@@ -21,7 +21,7 @@ deberemos tener las siguientes lineas sin comentar:
 ![tercera configuracion](capturas/tarea-5/ftpConf3.PNG)
 
 para que nos funcione deberemos habilitar en nuestro servidor el puerto de entrada de ftp (el 21)
-![puertos](capturas/tarea-5/captura4.PNG)
+![puertos](capturas/tarea-5/Captura4.PNG)
 
 por ultimo reiniciaremos el servicio y ya podríamos usarlo
-![puertos](capturas/tarea-5/captura5.PNG)
+![puertos](capturas/tarea-5/Captura5.PNG)
