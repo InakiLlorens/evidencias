@@ -3,6 +3,7 @@
 Primero pondremos el siguiente comando para crear el tar
 
 <i>**Nota:** despues de eso podemos usar ls para ver si los archivos se han creado correctamente en el directorio en el que estabamos posicionados</i>
+
 ![primer tar](capturas/tarea-6/tar1.PNG)
 ![segundo tar](capturas/tarea-6/tar2.PNG)
 
