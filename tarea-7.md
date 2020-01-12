@@ -1,5 +1,6 @@
 ## Creación de backups de forma manual y automatizada
 Empezaremos creando una carpeta para almacenar los backups
+
 ![carpeta](capturas/tarea-7/captura1.png)
 
 A continuacion crearemos un archivo php usando nano que contenga las siguientes lineas (Yo lo he creado en la carpeta servidor de www para acceder mediante el navegador)
